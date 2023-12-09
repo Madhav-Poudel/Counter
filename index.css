@@ -1,0 +1,31 @@
+/* counter CSS */
+
+body {
+    margin: 100px;
+    padding: 50px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: rgb(9, 9,59);
+    color: white;
+  }
+  
+  h1 {
+    font-size: 6rem;
+    color: chartreuse;
+  }
+  
+  .value {
+    font-size: 8rem;
+    color: cyan;
+    font-family:monospace;
+  }
+  button{
+    padding:10px 30px 10px 30px;
+    margin-top: 100px;
+     background-color: transparent;
+     border-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    color:rgb(193, 166, 166);
+    cursor: pointer;
+    font-family: cursive;
+}  
